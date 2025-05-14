@@ -7,7 +7,7 @@ I also work with **Qt C++** and **Embedded Linux (Debian Torizon, Docker-based)*
 
 ### 💻 Primary Skills
 
-- **Languages**: C#, JavaScript, TypeScript  
+- **Languages**: C#, JavaScript, TypeScript, VB, PHP  
 - **Frameworks**: ASP.NET MVC, .NET WinForms, Angular, React
 - **Front-End**: HTML5, CSS3, Bootstrap, jQuery  
 - **Back-End**: .NET Framework/Core, Web APIs, LINQ, Entity Framework  
@@ -18,7 +18,8 @@ I also work with **Qt C++** and **Embedded Linux (Debian Torizon, Docker-based)*
 
 ### 🔧 Secondary Skills
 
-- **UI**: Qt (Widgets), Shell Script  
+- **UI**: Qt (Widgets), Shell Script
+- **Languages**: QT C++, C++, VBA, VB6, GoLang 
 - **Platforms**: Embedded Linux (Debian Torizon, Docker-based, Yocto), Toradex i.MX7
 - **Tools**: Git, BitBake, systemd, GDB, Weston  
 
