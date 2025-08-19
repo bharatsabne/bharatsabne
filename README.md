@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @bharatsabne
 
-I'm a **Full Stack Developer** specializing in **C# desktop applications**, **ASP.NET MVC**, and **Angular** for **web development**.  
+I'm a **Full Stack Developer** specializing in **C# desktop and web applications**, **ASP.NET MVC**, and **Angular** for **web development**.  
 I also work with **Qt C++** and **Embedded Linux (Debian Torizon, Docker-based)** on the side, particularly for projects involving industrial systems.
 
 ---
